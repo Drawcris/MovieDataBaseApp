@@ -1,0 +1,8 @@
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.csproj.AssemblyReference.cache
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApp.Form1.resources
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApp.RegisterationForm.resources
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.csproj.GenerateResource.cache
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.AssemblyInfoInputs.cache
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.AssemblyInfo.cs
+C:\Users\sirwo\source\repos\MoviesApp\MoviesApp\obj\Debug\net6.0-windows\MoviesApps.csproj.CoreCompileInputs.cache
